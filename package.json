@@ -1,0 +1,23 @@
+{
+  "name": "openaitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CChocoJasonYeet/openAITest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CChocoJasonYeet/openAITest/issues"
+  },
+  "homepage": "https://github.com/CChocoJasonYeet/openAITest#readme",
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
